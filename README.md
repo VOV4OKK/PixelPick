@@ -1,2 +1,2 @@
-# BlockPEEK
+# PixelPick
 My game
